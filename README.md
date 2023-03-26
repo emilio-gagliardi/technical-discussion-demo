@@ -8,4 +8,4 @@ a demo of using a github repo to host a technical discussion
 [course-page](https://user-images.githubusercontent.com/26722095/227752139-5de78a48-a864-41fe-83be-563dc514f16e.png)
 
 ## Gist snippet for proposed function
-<script src="https://gist.github.com/emilio-gagliardi/067b151532814eaa102f2e6dbcbd7856.js"></script>
+[shared function gist](https://gist.github.com/emilio-gagliardi/067b151532814eaa102f2e6dbcbd7856)
